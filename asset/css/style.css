@@ -5,14 +5,14 @@
 }
 
 .headerbg {
-    background-color: rgb(101, 247, 247);
+    background-color: #ADD8E7;
     padding: 20px 0;
     display: flex;
     justify-content: center;
 }
 
 .header-container {
-    background-color: rgb(211, 163, 42);
+    background-color: #DAA51E;
     border: 2px dashed black;
     display: flex;
     width: 70%;
@@ -49,7 +49,7 @@
 /* Jumbo */
 
 .jumbo-bg {
-    background-color: navy;
+    background-color: #00018B;
     padding: 60px 0;
     display: flex;
     justify-content: center;
@@ -59,7 +59,7 @@
 .jumbo-container {
     width: 45%;
     height: 400px;
-    background-color: violet;
+    background-color: #EF82ED;
     border: 2px dashed black;
 }
 
@@ -80,7 +80,7 @@
 }
 
 .second-container {
-    background-color: lightgray;
+    background-color: #D3D3D3;
 }
 
 .third-container {
@@ -88,25 +88,25 @@
 }
 
 .fourth-container {
-    background-color: lightgray;
+    background-color: #D3D3D3;
 }
 
 .blue-large {
-    background-color: lightskyblue;
+    background-color: #1E90FF;
     width: 35%;
     height: 400px;
     border: 2px dashed black;
 }
 
 .pink-small {
-    background-color: pink;
+    background-color: #FFC0CA;
     width: 20%;
     height: 400px;
     border: 2px dashed black;
 }
 
 .green-large {
-    background-color: green;
+    background-color: #218B21;
     width: 55%;
     height: 800px;
     border: 2px dashed black;
@@ -123,11 +123,11 @@
 }
 
 .black-container {
-    background-color: rgb(37, 37, 37);
+    background-color: #23272A;
 }
 
 .pink-box {
-    background-color: violet;
+    background-color: #F08180;
     width: 19%;
     height: 550px;
     border: 2px dashed black;
@@ -144,13 +144,13 @@
     background-color: #20B3AA;
     width: 36%;
     height: 550px;
-    border: 2px dashed black;
+    border: 2px dashed white;
 }
 
 /* Footer con box, logo e bottone  */
 
 footer {
-    background-color: rgb(37, 37, 37);
+    background-color: #23272A;
     padding-top: 40px;
     display: flex;
     justify-content: center;
@@ -159,13 +159,12 @@ footer {
 }
 
 .footer-box {
-    background-color: green;
+    background-color: #7FFFD4;
     width: 55%;
     height: 80px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 2px dashed black;
 }
 
 .footer-logo {
