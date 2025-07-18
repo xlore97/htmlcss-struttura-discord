@@ -119,6 +119,7 @@
     justify-content: center;
     align-items: center;
     padding: 60px 0;
+    border-bottom: 1px solid white;
 }
 
 .black-container {
@@ -144,4 +145,39 @@
     width: 36%;
     height: 550px;
     border: 2px dashed black;
+}
+
+/* Footer con box, logo e bottone  */
+
+footer {
+    background-color: rgb(37, 37, 37);
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid white;
+}
+
+.footer-box {
+    background-color: green;
+    width: 55%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px dashed black;
+}
+
+.footer-logo {
+    width: 5%;
+    height: 30px;
+    border: 2px dashed black;
+    background-color: pink;
+}
+
+.footer-button {
+    width: 5%;
+    height: 30px;
+    border: 2px dashed black;
+    background-color: pink;
 }
