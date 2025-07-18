@@ -62,3 +62,52 @@
     background-color: violet;
     border: 2px dashed black;
 }
+
+/* Sezioni rosa, blu e verdi */
+
+.first-container,
+.second-container,
+.third-container,
+.fourth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0;
+}
+
+.first-container {
+    background-color: white;
+}
+
+.second-container {
+    background-color: lightgray;
+}
+
+.third-container {
+    background-color: white;
+}
+
+.fourth-container {
+    background-color: lightgray;
+}
+
+.blue-large {
+    background-color: lightskyblue;
+    width: 35%;
+    height: 400px;
+    border: 2px dashed black;
+}
+
+.pink-small {
+    background-color: pink;
+    width: 20%;
+    height: 400px;
+    border: 2px dashed black;
+}
+
+.green-large {
+    background-color: green;
+    width: 55%;
+    height: 800px;
+    border: 2px dashed black;
+}
