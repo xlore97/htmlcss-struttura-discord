@@ -111,3 +111,37 @@
     height: 800px;
     border: 2px dashed black;
 }
+
+/* Container nero pre footer */
+
+.black-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 0;
+}
+
+.black-container {
+    background-color: rgb(37, 37, 37);
+}
+
+.pink-box {
+    background-color: violet;
+    width: 19%;
+    height: 550px;
+    border: 2px dashed black;
+}
+
+.lightgreen-box {
+    background-color: violet;
+    width: 36%;
+    height: 550px;
+    display: flex;
+}
+
+.box-in-box {
+    background-color: #20B3AA;
+    width: 36%;
+    height: 550px;
+    border: 2px dashed black;
+}
