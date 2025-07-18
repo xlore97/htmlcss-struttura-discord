@@ -4,10 +4,6 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: rgb(5, 47, 61);
-}
-
 .headerbg {
     background-color: rgb(101, 247, 247);
     padding: 20px 0;
@@ -48,4 +44,21 @@ body {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+}
+
+/* Jumbo */
+
+.jumbo-bg {
+    background-color: navy;
+    padding: 60px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.jumbo-container {
+    width: 45%;
+    height: 400px;
+    background-color: violet;
+    border: 2px dashed black;
 }
